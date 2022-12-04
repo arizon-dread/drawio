@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-04T15:01:13.920Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 OPR/93.0.0.0" version="20.6.0" etag="2TWJsnahSKwKiMFwYpe_" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-04T15:07:42.320Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 OPR/93.0.0.0" version="20.6.0" etag="r2OX8nfSt4_xxyoevNHp" type="github">
   <diagram id="dEcU-ee0UV8H-_c2nEIc" name="Page-1">
     <mxGraphModel dx="2824" dy="1116" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -11,7 +11,7 @@
           <mxGeometry x="350" y="280" width="290" height="140" as="geometry" />
         </mxCell>
         <mxCell id="SarKboA0Y-ExGuH4aFD--3" value="Existerande&lt;br&gt;3-kammar-&lt;br&gt;brunn" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="-20" y="343" width="60" height="160" as="geometry" />
+          <mxGeometry x="-30" y="343" width="70" height="160" as="geometry" />
         </mxCell>
         <mxCell id="SarKboA0Y-ExGuH4aFD--6" value="markyta" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=15;exitPerimeter=0;entryX=0;entryY=0.436;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="SarKboA0Y-ExGuH4aFD--2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -20,7 +20,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SarKboA0Y-ExGuH4aFD--8" value="150cm" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="SarKboA0Y-ExGuH4aFD--8" value="1,5m" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="50" y="450" as="sourcePoint" />
             <mxPoint x="50" y="361" as="targetPoint" />
@@ -29,7 +29,7 @@
         <mxCell id="SarKboA0Y-ExGuH4aFD--10" value="mini-&lt;br&gt;renings-&lt;br&gt;verk" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="-440" y="370" width="130" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="SarKboA0Y-ExGuH4aFD--12" value="110cm" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="SarKboA0Y-ExGuH4aFD--12" value="1,1m" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry x="-0.0127" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="330" y="426" as="sourcePoint" />
             <mxPoint x="330" y="347" as="targetPoint" />
@@ -82,13 +82,13 @@
         <mxCell id="SarKboA0Y-ExGuH4aFD--26" value="Ny avloppsstam" style="shape=link;html=1;rounded=0;strokeColor=default;startArrow=classic;startFill=1;curved=1;exitX=1.008;exitY=0.591;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="SarKboA0Y-ExGuH4aFD--10">
           <mxGeometry width="100" relative="1" as="geometry">
             <mxPoint x="-120" y="465" as="sourcePoint" />
-            <mxPoint x="-20" y="465" as="targetPoint" />
+            <mxPoint x="-30" y="465" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="SarKboA0Y-ExGuH4aFD--27" value="3% lutning" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-220" y="475" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="SarKboA0Y-ExGuH4aFD--28" value="Max&lt;br&gt;85cm" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="SarKboA0Y-ExGuH4aFD--28" value="Max&lt;br&gt;0,85m" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-300" y="467.4999999999998" as="sourcePoint" />
             <mxPoint x="-300" y="380" as="targetPoint" />
@@ -126,7 +126,7 @@
         </mxCell>
         <mxCell id="SarKboA0Y-ExGuH4aFD--35" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeColor=default;curved=1;entryX=0;entryY=1;entryDx=0;entryDy=-15;entryPerimeter=0;" edge="1" parent="1" target="SarKboA0Y-ExGuH4aFD--3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-20" y="648.9999999999998" as="sourcePoint" />
+            <mxPoint x="-30" y="640" as="sourcePoint" />
             <mxPoint x="-20" y="548.9999999999998" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -139,7 +139,7 @@
         <mxCell id="SarKboA0Y-ExGuH4aFD--37" value="13m" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeColor=default;curved=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-310" y="640" as="sourcePoint" />
-            <mxPoint x="-20" y="640" as="targetPoint" />
+            <mxPoint x="-30" y="640" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="SarKboA0Y-ExGuH4aFD--38" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeColor=default;curved=1;entryX=0;entryY=1;entryDx=0;entryDy=-15;entryPerimeter=0;" edge="1" parent="1">
