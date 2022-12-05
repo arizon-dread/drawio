@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-05T18:19:42.403Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 OPR/93.0.0.0" etag="o-f-iX4TOi2bf9YXCyLN" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-05T20:35:38.287Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 OPR/93.0.0.0" etag="IsYBLzVXSzl2r2VdX7nU" version="20.6.0" type="github">
   <diagram id="dEcU-ee0UV8H-_c2nEIc" name="Page-1">
-    <mxGraphModel dx="2476" dy="919" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2232" dy="781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -48,7 +48,7 @@
             <mxPoint x="-740" y="500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SarKboA0Y-ExGuH4aFD--16" value="&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;Existerande&lt;br&gt;fördelnings-/&lt;br&gt;inspektionsbrunn" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=4.52941176470614;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="SarKboA0Y-ExGuH4aFD--16" value="&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;Existerande&lt;br&gt;rens-/&lt;br&gt;inspektionsbrunn" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=4.52941176470614;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="-640" y="430" width="30" height="140" as="geometry" />
         </mxCell>
         <mxCell id="SarKboA0Y-ExGuH4aFD--19" value="Till existerande&lt;br&gt;&amp;nbsp;dike" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
@@ -160,34 +160,34 @@
             <mxPoint x="-440" y="640" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="heA60xGhbs8UXRdRQO-w-1" value="" style="shape=link;html=1;rounded=0;strokeWidth=2;" edge="1" parent="1">
+        <mxCell id="heA60xGhbs8UXRdRQO-w-1" value="" style="shape=link;html=1;rounded=0;strokeWidth=2;" parent="1" edge="1">
           <mxGeometry width="100" relative="1" as="geometry">
             <mxPoint x="400" y="420" as="sourcePoint" />
             <mxPoint x="400" y="620" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="heA60xGhbs8UXRdRQO-w-2" value="Borrhål,&lt;br&gt;djupborrad&lt;br&gt;dricksvatten-&lt;br&gt;brunn.&lt;br&gt;Djup &amp;gt; 60m" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="heA60xGhbs8UXRdRQO-w-2" value="Borrhål,&lt;br&gt;djupborrad&lt;br&gt;dricksvatten-&lt;br&gt;brunn.&lt;br&gt;Djup &amp;gt; 60m" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="393" y="410" width="90" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="heA60xGhbs8UXRdRQO-w-6" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="heA60xGhbs8UXRdRQO-w-6" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="400" y="700" as="sourcePoint" />
             <mxPoint x="400" y="620" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="heA60xGhbs8UXRdRQO-w-7" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="heA60xGhbs8UXRdRQO-w-7" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-730" y="700" as="sourcePoint" />
             <mxPoint x="-730" y="540" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="heA60xGhbs8UXRdRQO-w-8" value="&amp;nbsp;Avstånd mellan dricksvatten och utsläppspunkt, &amp;gt; 50m&amp;nbsp;" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeWidth=2;" edge="1" parent="1">
+        <mxCell id="heA60xGhbs8UXRdRQO-w-8" value="&amp;nbsp;Avstånd mellan dricksvatten och utsläppspunkt, &amp;gt; 50m&amp;nbsp;" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeWidth=2;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-730" y="700" as="sourcePoint" />
             <mxPoint x="400" y="700" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="heA60xGhbs8UXRdRQO-w-9" value="&amp;gt;= 3% lutning" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="heA60xGhbs8UXRdRQO-w-9" value="&amp;gt;= 3% lutning" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-585" y="500" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
