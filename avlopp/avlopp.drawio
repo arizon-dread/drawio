@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-05T18:16:27.310Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 OPR/93.0.0.0" etag="DsiRjU8lkahKxYVu1rS3" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-05T18:17:10.396Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 OPR/93.0.0.0" etag="Z5RFMYljlepmIwBfJNn3" version="20.6.0" type="github">
   <diagram id="dEcU-ee0UV8H-_c2nEIc" name="Page-1">
     <mxGraphModel dx="2476" dy="919" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -181,7 +181,7 @@
             <mxPoint x="-730" y="540" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="heA60xGhbs8UXRdRQO-w-8" value="&amp;nbsp;Avstånd dricksvatten till utsläppspunkt, &amp;gt; 50m&amp;nbsp;" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeWidth=2;" edge="1" parent="1">
+        <mxCell id="heA60xGhbs8UXRdRQO-w-8" value="&amp;nbsp;Avstånd mellan dricksvatten och utsläppspunkt, &amp;gt; 50m&amp;nbsp;" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-730" y="700" as="sourcePoint" />
             <mxPoint x="400" y="700" as="targetPoint" />
