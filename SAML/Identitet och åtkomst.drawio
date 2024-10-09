@@ -86,7 +86,7 @@
           <mxGeometry x="380" y="480" width="47.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="T-CoUlsQ0zNCIP5Rp3Ct-20" value="SITHS-&lt;div&gt;kort&lt;/div&gt;" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.certificate;pointerEvents=1;" parent="1" vertex="1">
-          <mxGeometry x="440" y="480" width="40" height="30" as="geometry" />
+          <mxGeometry x="440" y="500" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="trAEXEHgNY-A63-KypLn-2" value="inloggningsdialog&lt;div&gt;SITHS-kort-verifikation&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.375;entryY=0.988;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="T-CoUlsQ0zNCIP5Rp3Ct-19" target="T-CoUlsQ0zNCIP5Rp3Ct-3">
           <mxGeometry relative="1" as="geometry" />
