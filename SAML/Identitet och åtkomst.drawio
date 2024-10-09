@@ -34,16 +34,16 @@
         <mxCell id="T-CoUlsQ0zNCIP5Rp3Ct-8" value="Identitetskällor" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="364" y="102.5" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="T-CoUlsQ0zNCIP5Rp3Ct-10" value="Service&lt;div&gt;Provider&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="T-CoUlsQ0zNCIP5Rp3Ct-10" value="Service&lt;div&gt;Provider 1&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="130" y="400" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="T-CoUlsQ0zNCIP5Rp3Ct-11" value="Domänapplikation" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="T-CoUlsQ0zNCIP5Rp3Ct-11" value="Domänapplikation 1" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="130" y="430" width="110" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="T-CoUlsQ0zNCIP5Rp3Ct-12" value="Service&lt;div&gt;Provider&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="T-CoUlsQ0zNCIP5Rp3Ct-12" value="Service&lt;div&gt;Provider 2&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="577" y="400" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="T-CoUlsQ0zNCIP5Rp3Ct-13" value="Domänapplikation" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="T-CoUlsQ0zNCIP5Rp3Ct-13" value="Domänapplikation 2" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="577" y="430" width="110" height="150" as="geometry" />
         </mxCell>
         <mxCell id="T-CoUlsQ0zNCIP5Rp3Ct-15" value="Metadata-&lt;div&gt;utbyte&lt;/div&gt;" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/blockchain/smart_contract.svg;" parent="1" vertex="1">
@@ -58,11 +58,36 @@
         <mxCell id="T-CoUlsQ0zNCIP5Rp3Ct-17" value="Metadata-&lt;div&gt;utbyte&lt;/div&gt;" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/blockchain/smart_contract.svg;" parent="1" vertex="1">
           <mxGeometry x="155" y="210" width="60" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="trAEXEHgNY-A63-KypLn-1" value="login" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="T-CoUlsQ0zNCIP5Rp3Ct-19" target="T-CoUlsQ0zNCIP5Rp3Ct-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="240" y="505" />
+              <mxPoint x="240" y="280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="trAEXEHgNY-A63-KypLn-3" value="studsad inloggning&amp;nbsp;&lt;div&gt;vid inloggat läge&lt;/div&gt;&lt;div&gt;SSO&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="T-CoUlsQ0zNCIP5Rp3Ct-19" target="T-CoUlsQ0zNCIP5Rp3Ct-12">
+          <mxGeometry x="0.7647" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="490" y="505" />
+              <mxPoint x="490" y="360" />
+              <mxPoint x="440" y="360" />
+              <mxPoint x="440" y="250" />
+              <mxPoint x="550" y="250" />
+              <mxPoint x="550" y="380" />
+              <mxPoint x="577" y="380" />
+            </Array>
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="T-CoUlsQ0zNCIP5Rp3Ct-19" value="Användare" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.user;" parent="1" vertex="1">
           <mxGeometry x="380" y="480" width="47.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="T-CoUlsQ0zNCIP5Rp3Ct-20" value="SITHS-&lt;div&gt;kort&lt;/div&gt;" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.certificate;pointerEvents=1;" parent="1" vertex="1">
           <mxGeometry x="440" y="480" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="trAEXEHgNY-A63-KypLn-2" value="inloggningsdialog&lt;div&gt;SITHS-kort-verifikation&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.375;entryY=0.988;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="T-CoUlsQ0zNCIP5Rp3Ct-19" target="T-CoUlsQ0zNCIP5Rp3Ct-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
