@@ -66,16 +66,18 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="trAEXEHgNY-A63-KypLn-3" value="studsad inloggning&amp;nbsp;&lt;div&gt;vid inloggat läge&lt;/div&gt;&lt;div&gt;SSO&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="T-CoUlsQ0zNCIP5Rp3Ct-19" target="T-CoUlsQ0zNCIP5Rp3Ct-12">
+        <mxCell id="trAEXEHgNY-A63-KypLn-3" value="studsad inloggning&amp;nbsp;&lt;div&gt;vid inloggat läge&lt;/div&gt;&lt;div&gt;SSO&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="T-CoUlsQ0zNCIP5Rp3Ct-12">
           <mxGeometry x="0.7647" relative="1" as="geometry">
+            <mxPoint x="427.5" y="490" as="sourcePoint" />
+            <mxPoint x="600" y="390" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="490" y="505" />
-              <mxPoint x="490" y="360" />
+              <mxPoint x="580" y="490" />
+              <mxPoint x="580" y="360" />
               <mxPoint x="440" y="360" />
               <mxPoint x="440" y="250" />
               <mxPoint x="550" y="250" />
-              <mxPoint x="550" y="380" />
-              <mxPoint x="577" y="380" />
+              <mxPoint x="550" y="330" />
+              <mxPoint x="605" y="330" />
             </Array>
             <mxPoint y="1" as="offset" />
           </mxGeometry>
