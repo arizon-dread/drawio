@@ -76,6 +76,9 @@
         <mxCell id="LnZ3VuiV0rCywtS5rQN8-23" value="API Management" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.management_console;fillColor=#F58534;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="260" y="177" width="63" height="63" as="geometry" />
         </mxCell>
+        <mxCell id="LnZ3VuiV0rCywtS5rQN8-27" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#DF8C42;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam2.linux;" vertex="1" parent="1">
+          <mxGeometry x="561.4" y="490" width="34" height="34" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
