@@ -69,7 +69,7 @@
         <mxCell id="Kjr8ZNpruh3fFirJT9Ei-23" value="Publicera API" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Kjr8ZNpruh3fFirJT9Ei-20" target="Kjr8ZNpruh3fFirJT9Ei-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Kjr8ZNpruh3fFirJT9Ei-20" value="Administration" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.2d.web_ui;" vertex="1" parent="1">
+        <mxCell id="Kjr8ZNpruh3fFirJT9Ei-20" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(102, 178, 255));&quot;&gt;Administration&lt;/font&gt;" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.2d.web_ui;" vertex="1" parent="1">
           <mxGeometry x="827" y="-180" width="44.8" height="44.8" as="geometry" />
         </mxCell>
         <mxCell id="Kjr8ZNpruh3fFirJT9Ei-22" value="Publicera behörighet" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Kjr8ZNpruh3fFirJT9Ei-20" target="Kjr8ZNpruh3fFirJT9Ei-8">
