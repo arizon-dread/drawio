@@ -74,7 +74,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="J5agY7veIBoOkf-PgPzj-21" value="klientcert" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/app_services/App_Service_Certificates.svg;" vertex="1" parent="1">
-          <mxGeometry x="625" y="420" width="28" height="25.53" as="geometry" />
+          <mxGeometry x="510" y="296.23" width="28" height="25.53" as="geometry" />
         </mxCell>
         <mxCell id="J5agY7veIBoOkf-PgPzj-23" value="Cosmic" style="shape=mxgraph.cisco.computers_and_peripherals.ibm_mainframe;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;fontColor=light-dark(#000000,#8977FF);" vertex="1" parent="1">
           <mxGeometry x="910" y="614" width="50" height="70" as="geometry" />
