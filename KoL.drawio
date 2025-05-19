@@ -93,7 +93,7 @@
         <mxCell id="J5agY7veIBoOkf-PgPzj-24" value="VPN" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.vpn_connection;fillColor=#F58536;gradientColor=none;fontColor=light-dark(#000000,#726DFF);" parent="1" vertex="1">
           <mxGeometry x="769" y="625" width="58.5" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="V90xSKvFOXvt9yvSpmEo-1" value="PhenixID&lt;div&gt;SAML&lt;/div&gt;" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/security/identity_provider.svg;" vertex="1" parent="1">
+        <mxCell id="V90xSKvFOXvt9yvSpmEo-1" value="PhenixID&lt;div&gt;SAML&lt;/div&gt;" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=none;fontSize=12;spacingTop=3;image=img/lib/ibm/security/identity_provider.svg;" vertex="1" parent="1">
           <mxGeometry x="80" y="400" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="V90xSKvFOXvt9yvSpmEo-3" value="Redirect" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=none;fontColor=light-dark(#000000,#6D77FF);strokeColor=light-dark(#000000,#6D77FF);" edge="1" parent="1" source="V90xSKvFOXvt9yvSpmEo-1" target="J5agY7veIBoOkf-PgPzj-6">
