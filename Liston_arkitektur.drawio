@@ -96,6 +96,9 @@
         <mxCell id="kaKKj5Ios_q5fEiWsd86-50" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kaKKj5Ios_q5fEiWsd86-53" target="kaKKj5Ios_q5fEiWsd86-49">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="kaKKj5Ios_q5fEiWsd86-60" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kaKKj5Ios_q5fEiWsd86-31" target="kaKKj5Ios_q5fEiWsd86-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="kaKKj5Ios_q5fEiWsd86-31" value="Databas" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/database_server.svg;" vertex="1" parent="1">
           <mxGeometry x="570" y="820" width="41" height="50" as="geometry" />
         </mxCell>
@@ -179,11 +182,14 @@
         <mxCell id="kaKKj5Ios_q5fEiWsd86-53" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Statistik-&lt;/span&gt;&lt;div style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;export&lt;/div&gt;&lt;div style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;SSIS&lt;/div&gt;" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/SSIS_Lift_And_Shift_IR.svg;" vertex="1" parent="1">
           <mxGeometry x="640" y="870" width="32" height="35.1" as="geometry" />
         </mxCell>
-        <mxCell id="kaKKj5Ios_q5fEiWsd86-55" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;Andra&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;SSIS-jobb&lt;/span&gt;&lt;/div&gt;" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/SSIS_Lift_And_Shift_IR.svg;" vertex="1" parent="1">
+        <mxCell id="kaKKj5Ios_q5fEiWsd86-55" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;Andra&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;SSIS-jobb,&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;bl.a.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;Rapporter&lt;/span&gt;&lt;/div&gt;" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/SSIS_Lift_And_Shift_IR.svg;" vertex="1" parent="1">
           <mxGeometry x="444.9" y="930" width="32" height="35.1" as="geometry" />
         </mxCell>
         <mxCell id="kaKKj5Ios_q5fEiWsd86-56" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.909;entryY=0.057;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="kaKKj5Ios_q5fEiWsd86-31" target="kaKKj5Ios_q5fEiWsd86-55">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kaKKj5Ios_q5fEiWsd86-59" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;Skapa&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;fakturerings-&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;underlag&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/SSIS_Lift_And_Shift_IR.svg;" vertex="1" parent="1">
+          <mxGeometry x="300" y="905.1" width="32" height="35.1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
