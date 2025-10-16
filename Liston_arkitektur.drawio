@@ -203,8 +203,8 @@
         <mxCell id="e3TK-3G1yD0iu7HB-G0T-1" value="&lt;font style=&quot;color: rgb(255, 128, 0);&quot;&gt;crm:carelisting:getListing:1.0&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="530" y="-70" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="e3TK-3G1yD0iu7HB-G0T-2" value="&lt;font style=&quot;color: rgb(51, 51, 255);&quot;&gt;supportprocess:logistics:carelisting:getListing:2.1&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="320.9" y="240" width="280" height="30" as="geometry" />
+        <mxCell id="e3TK-3G1yD0iu7HB-G0T-2" value="&lt;font style=&quot;color: rgb(51, 51, 255);&quot;&gt;supportprocess:logistics:carelisting:*:2.1&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="340.9" y="240" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="e3TK-3G1yD0iu7HB-G0T-3" value="RTjP" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/integration/Event_Grid_Subscriptions.svg;direction=south;" vertex="1" parent="1">
           <mxGeometry x="414" y="150" width="60" height="67" as="geometry" />
