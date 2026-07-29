@@ -1,0 +1,75 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Sida-1" id="djJzQccFLDHLthklla9_">
+    <mxGraphModel dx="1140" dy="1096" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="oGG6Cwm3PUqIQXfrAbgj-1" parent="1" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Azure_Pipelines.svg;" value="Azure DevOps Server" vertex="1">
+          <mxGeometry height="50" width="50" x="330" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="oGG6Cwm3PUqIQXfrAbgj-5" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="370" width="550" x="110" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="oGG6Cwm3PUqIQXfrAbgj-4" parent="oGG6Cwm3PUqIQXfrAbgj-5" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="370" width="550" as="geometry" />
+        </mxCell>
+        <mxCell id="oGG6Cwm3PUqIQXfrAbgj-2" parent="oGG6Cwm3PUqIQXfrAbgj-5" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/OpenShift.svg;" value="" vertex="1">
+          <mxGeometry height="65.46153846153847" width="71.15384615384616" as="geometry" />
+        </mxCell>
+        <mxCell id="oGG6Cwm3PUqIQXfrAbgj-7" parent="oGG6Cwm3PUqIQXfrAbgj-5" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;prIcon=control_plane" value="BuildAgent&lt;div&gt;Controller&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="48" width="50" x="140" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oGG6Cwm3PUqIQXfrAbgj-10" parent="oGG6Cwm3PUqIQXfrAbgj-5" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;kubernetesLabel=1;prIcon=job" value="" vertex="1">
+          <mxGeometry height="48" width="50" x="260" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="oGG6Cwm3PUqIQXfrAbgj-11" edge="1" parent="oGG6Cwm3PUqIQXfrAbgj-5" source="oGG6Cwm3PUqIQXfrAbgj-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.005;entryY=0.63;entryDx=0;entryDy=0;entryPerimeter=0;" target="oGG6Cwm3PUqIQXfrAbgj-10" value="3. Job is&lt;div&gt;spawned&lt;/div&gt;">
+          <mxGeometry relative="1" x="-0.1899" as="geometry">
+            <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="190" y="180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oGG6Cwm3PUqIQXfrAbgj-13" parent="oGG6Cwm3PUqIQXfrAbgj-5" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;kubernetesLabel=1;prIcon=job" value="5. Build jobs,&lt;div&gt;one for each&lt;/div&gt;&lt;div&gt;pipeline&lt;/div&gt;" vertex="1">
+          <mxGeometry height="48" width="50" x="270" y="161" as="geometry" />
+        </mxCell>
+        <mxCell id="oGG6Cwm3PUqIQXfrAbgj-6" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/assets/azure-additional-or-support/1/Docker.svg" value="DockerHub&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="56" width="99" x="600" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="oGG6Cwm3PUqIQXfrAbgj-8" edge="1" parent="1" source="oGG6Cwm3PUqIQXfrAbgj-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.017;entryY=0.517;entryDx=0;entryDy=0;entryPerimeter=0;" target="oGG6Cwm3PUqIQXfrAbgj-1" value="1. Register&lt;div&gt;for&lt;/div&gt;&lt;div&gt;agent pool&lt;/div&gt;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="210" y="434" />
+              <mxPoint x="210" y="156" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oGG6Cwm3PUqIQXfrAbgj-9" edge="1" parent="1" source="oGG6Cwm3PUqIQXfrAbgj-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.995;entryY=0.63;entryDx=0;entryDy=0;entryPerimeter=0;" target="oGG6Cwm3PUqIQXfrAbgj-7" value="2. Pipeline&amp;nbsp;&lt;div&gt;triggers&lt;/div&gt;&lt;div&gt;build&lt;/div&gt;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="440" y="155" />
+              <mxPoint x="440" y="440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oGG6Cwm3PUqIQXfrAbgj-12" edge="1" parent="1" source="oGG6Cwm3PUqIQXfrAbgj-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="oGG6Cwm3PUqIQXfrAbgj-1" value="4. Register&lt;div&gt;temp&lt;/div&gt;&lt;div&gt;build&lt;/div&gt;&lt;div&gt;agent&lt;/div&gt;&lt;div&gt;and&lt;/div&gt;&lt;div&gt;retrieve&lt;/div&gt;&lt;div&gt;pipeline&amp;nbsp;&lt;/div&gt;&lt;div&gt;build job&lt;/div&gt;">
+          <mxGeometry relative="1" x="0.5219" as="geometry">
+            <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="355" y="554" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oGG6Cwm3PUqIQXfrAbgj-15" edge="1" parent="1" source="oGG6Cwm3PUqIQXfrAbgj-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="oGG6Cwm3PUqIQXfrAbgj-6" value="6. After build,&amp;nbsp;&lt;div&gt;push image&lt;/div&gt;&lt;div&gt;to registry&lt;/div&gt;">
+          <mxGeometry relative="1" x="0.1449" as="geometry">
+            <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="650" y="565" />
+              <mxPoint x="650" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
