@@ -4,19 +4,19 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="XgLVWOwlHqtGM9brutPD-1" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Windows_Metro-2906/questionmark-948.png" value="" vertex="1">
-          <mxGeometry height="48" width="48" x="250" y="420" as="geometry" />
+        <mxCell id="XgLVWOwlHqtGM9brutPD-1" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Windows_Metro-2906/questionmark-948.png" value="DNS-fråga" vertex="1">
+          <mxGeometry height="48" width="48" x="280" y="410" as="geometry" />
         </mxCell>
-        <mxCell id="XgLVWOwlHqtGM9brutPD-13" edge="1" parent="1" source="XgLVWOwlHqtGM9brutPD-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.1;exitY=0.2;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;">
+        <mxCell id="XgLVWOwlHqtGM9brutPD-13" edge="1" parent="1" source="XgLVWOwlHqtGM9brutPD-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.1;exitY=0.2;exitDx=0;exitDy=0;exitPerimeter=0;">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="272.94000000000005" y="208.55999999999995" as="targetPoint" />
+            <mxPoint x="285" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XgLVWOwlHqtGM9brutPD-26" edge="1" parent="1" source="XgLVWOwlHqtGM9brutPD-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;exitX=0.72;exitY=0.99;exitDx=0;exitDy=0;exitPerimeter=0;" target="XgLVWOwlHqtGM9brutPD-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XgLVWOwlHqtGM9brutPD-2" parent="1" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;kubernetesLabel=1;prIcon=api" value="" vertex="1">
-          <mxGeometry height="48" width="50" x="248" y="316" as="geometry" />
+          <mxGeometry height="48" width="50" x="280" y="320" as="geometry" />
         </mxCell>
         <mxCell id="XgLVWOwlHqtGM9brutPD-14" edge="1" parent="1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="XgLVWOwlHqtGM9brutPD-4">
           <mxGeometry relative="1" as="geometry">
@@ -85,12 +85,12 @@
         </mxCell>
         <mxCell id="XgLVWOwlHqtGM9brutPD-25" edge="1" parent="1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="XgLVWOwlHqtGM9brutPD-19" value="">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="301.7347360665226" y="208.55999999999995" as="sourcePoint" />
+            <mxPoint x="323" y="210" as="sourcePoint" />
             <mxPoint x="315" y="259" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XgLVWOwlHqtGM9brutPD-19" parent="1" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.filter" value="" vertex="1">
-          <mxGeometry height="45" width="50" x="270" y="250" as="geometry" />
+          <mxGeometry height="45" width="50" x="298" y="250" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
