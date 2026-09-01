@@ -1,9 +1,24 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Sida-1" id="LwkhgvvcrgFamePSE0GX">
-    <mxGraphModel>
+    <mxGraphModel dx="1176" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="d-ZD_1bjoXDWoE_E1X4n-1" parent="1" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;prIcon=pod" value="Tjänst" vertex="1">
+          <mxGeometry height="48" width="50" x="210" y="288" as="geometry" />
+        </mxCell>
+        <mxCell id="d-ZD_1bjoXDWoE_E1X4n-2" parent="1" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;prIcon=pod" value="Tjänst" vertex="1">
+          <mxGeometry height="48" width="50" x="510" y="289" as="geometry" />
+        </mxCell>
+        <mxCell id="d-ZD_1bjoXDWoE_E1X4n-3" parent="1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" value="?" vertex="1">
+          <mxGeometry height="80" width="120" x="315" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="d-ZD_1bjoXDWoE_E1X4n-4" edge="1" parent="1" source="d-ZD_1bjoXDWoE_E1X4n-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.07;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;" target="d-ZD_1bjoXDWoE_E1X4n-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d-ZD_1bjoXDWoE_E1X4n-5" edge="1" parent="1" source="d-ZD_1bjoXDWoE_E1X4n-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.005;entryY=0.63;entryDx=0;entryDy=0;entryPerimeter=0;" target="d-ZD_1bjoXDWoE_E1X4n-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
